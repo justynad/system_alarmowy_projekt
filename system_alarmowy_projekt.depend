@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1496576866 source:c:\users\maciek\desktop\system_alarmowy_projekt\budynek.cpp
+	"Budynek.h"
+	<thread>
+	<chrono>
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1496576832 c:\users\maciek\desktop\system_alarmowy_projekt\budynek.h
+	"SystemAlarmowy.h"
+	<vector>
+
+1496578058 c:\users\maciek\desktop\system_alarmowy_projekt\systemalarmowy.h
+	<vector>
+	"Czujnik.h"
+	"Syrena.h"
+	"CentralaTelefoniczna.h"
+
+1496578058 c:\users\maciek\desktop\system_alarmowy_projekt\czujnik.h
+	<string>
+
+1496576026 c:\users\maciek\desktop\system_alarmowy_projekt\syrena.h
+
+1496577066 c:\users\maciek\desktop\system_alarmowy_projekt\centralatelefoniczna.h
+	<string>
+	<vector>
+	"Czujnik.h"
+
+1496577066 source:c:\users\maciek\desktop\system_alarmowy_projekt\centralatelefoniczna.cpp
+	"CentralaTelefoniczna.h"
+	<iostream>
+
+1496578058 source:c:\users\maciek\desktop\system_alarmowy_projekt\czujnik.cpp
+	"Czujnik.h"
+
+1496574912 source:c:\users\maciek\desktop\system_alarmowy_projekt\czujnikdzwieku.cpp
+	"CzujnikDzwieku.h"
+
+1496574912 c:\users\maciek\desktop\system_alarmowy_projekt\czujnikdzwieku.h
+	"Czujnik.h"
+
+1496574912 source:c:\users\maciek\desktop\system_alarmowy_projekt\czujnikruchu.cpp
+	"CzujnikRuchu.h"
+
+1496574912 c:\users\maciek\desktop\system_alarmowy_projekt\czujnikruchu.h
+	"Czujnik.h"
+	<string>
+
+1496577640 source:c:\users\maciek\desktop\system_alarmowy_projekt\fabrykaczujnikow.cpp
+	"FabrykaCzujnikow.h"
+	"CzujnikDzwieku.h"
+	"CzujnikRuchu.h"
+
+1496577640 c:\users\maciek\desktop\system_alarmowy_projekt\fabrykaczujnikow.h
+	"Czujnik.h"
+
+1496578058 source:c:\users\maciek\desktop\system_alarmowy_projekt\main.cpp
+	<iostream>
+	"Budynek.h"
+	"FabrykaCzujnikow.h"
+
+1496574912 source:c:\users\maciek\desktop\system_alarmowy_projekt\sygnalswietlny.cpp
+	"SygnalSwietlny.h"
+
+1496574912 c:\users\maciek\desktop\system_alarmowy_projekt\sygnalswietlny.h
+
+1496576026 source:c:\users\maciek\desktop\system_alarmowy_projekt\syrena.cpp
+	"Syrena.h"
+	<iostream>
+
+1496576866 source:c:\users\justy\desktop\system_alarmowy_projekt\budynek.cpp
+	"Budynek.h"
+	<thread>
+	<chrono>
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1496576832 c:\users\justy\desktop\system_alarmowy_projekt\budynek.h
+	"SystemAlarmowy.h"
+	<vector>
+
+1496578058 c:\users\justy\desktop\system_alarmowy_projekt\systemalarmowy.h
+	<vector>
+	"Czujnik.h"
+	"Syrena.h"
+	"CentralaTelefoniczna.h"
+
+1496578058 c:\users\justy\desktop\system_alarmowy_projekt\czujnik.h
+	<string>
+
+1496576026 c:\users\justy\desktop\system_alarmowy_projekt\syrena.h
+
+1496577066 c:\users\justy\desktop\system_alarmowy_projekt\centralatelefoniczna.h
+	<string>
+	<vector>
+	"Czujnik.h"
+
+1496577066 source:c:\users\justy\desktop\system_alarmowy_projekt\centralatelefoniczna.cpp
+	"CentralaTelefoniczna.h"
+	<iostream>
+
+1496578058 source:c:\users\justy\desktop\system_alarmowy_projekt\czujnik.cpp
+	"Czujnik.h"
+
+1496574912 source:c:\users\justy\desktop\system_alarmowy_projekt\czujnikdzwieku.cpp
+	"CzujnikDzwieku.h"
+
+1496574912 c:\users\justy\desktop\system_alarmowy_projekt\czujnikdzwieku.h
+	"Czujnik.h"
+
+1496574912 source:c:\users\justy\desktop\system_alarmowy_projekt\czujnikruchu.cpp
+	"CzujnikRuchu.h"
+
+1496574912 c:\users\justy\desktop\system_alarmowy_projekt\czujnikruchu.h
+	"Czujnik.h"
+	<string>
+
+1496577640 source:c:\users\justy\desktop\system_alarmowy_projekt\fabrykaczujnikow.cpp
+	"FabrykaCzujnikow.h"
+	"CzujnikDzwieku.h"
+	"CzujnikRuchu.h"
+
+1496577640 c:\users\justy\desktop\system_alarmowy_projekt\fabrykaczujnikow.h
+	"Czujnik.h"
+
+1496576026 source:c:\users\justy\desktop\system_alarmowy_projekt\syrena.cpp
+	"Syrena.h"
+	<iostream>
+
+1496578578 source:c:\users\justy\desktop\system_alarmowy_projekt\systemalarmowy.cpp
+	"SystemAlarmowy.h"
+	<iostream>
+	<cstdlib>
+
+1496839266 source:c:\users\justy\desktop\system_alarmowy_projekt\main.cpp
+	<iostream>
+	"Budynek.h"
+	"FabrykaCzujnikow.h"
+
